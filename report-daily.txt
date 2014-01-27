@@ -9,6 +9,7 @@ suwarto
 Jeffry
 ======
 1. Rubah A record untuk video.detik.com.
+2. Trial git.
 
 Regards
 --jef
