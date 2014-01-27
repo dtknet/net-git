@@ -10,6 +10,7 @@ Jeffry
 ======
 1. Rubah A record untuk video.detik.com.
 2. Trial git..
+3. Add subdomain readerchoice.
 
 Regards
 --jef
