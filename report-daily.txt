@@ -15,6 +15,8 @@ Jeffry
 5. Allocate ip untuk dbvas (lan dan public)
 6. Test vyatta (router OS)
 7. Allow ip 247.44 di firewall agar bisa diremote dari network Trans.
+8. Pemasangan kabel firewall 243 yg baru ke vlan 555.
+
 
 Regards
 --jef
