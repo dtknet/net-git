@@ -9,15 +9,8 @@ suwarto
 
 Jeffry
 ======
-1. Rubah A record untuk video.detik.com.
-2. Trial git.
-3. Add subdomain readerchoice.
-4. Allocate ip public untuk pasangmata
-5. Allocate ip untuk dbvas (lan dan public)
-6. Test vyatta (router OS)
-7. Allow ip 247.44 di firewall agar bisa diremote dari network Trans.
-8. Pemasangan kabel firewall 243 yg baru ke vlan 555.
-9. Compile ulang quagga pada router kantor karena versi yg lama ada bug.
+1. Penggantian fan force10 (masih belum selesai karena fan masih bermasalah).
+2. Pembuatan topology kantor.
 
 Regards
 --jef
