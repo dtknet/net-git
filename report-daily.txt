@@ -10,6 +10,8 @@ Jeffry
 ======
 1. Penggantian fan force10 (masih belum selesai karena fan masih bermasalah).
 2. Pembuatan topology kantor.
+3. Ke IDC untuk mengambil log force10
+4. Create subdomain beta.newopenx.detik.com
 
 Regards
 --jef
