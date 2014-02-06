@@ -13,6 +13,7 @@ Jeffry
 3. Ke IDC untuk mengambil log force10
 4. Create subdomain beta.newopenx.detik.com
 5. Reinstall mesin virtual local untuk keperluan testing DBA.
+6. Riset dual OSPF untuk firewall untuk keperluan redudancy (done).
 
 Regards
 --jef
