@@ -4,7 +4,12 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-
+1. open port 443 di firewall 243 | problem Failed connect to video.detik.com:443
+2. perubahan IP firewall baru 243 dari 203.190.243.200 menjadi 203.190.243.205 | ip 243.200 dipake rizki
+3. allow port ftp 7387 dan 1024:65535 dari router tendean | keperluan sftp arenamusik
+4. blok semua port untuk server windows Insosys dan hanya di buka port remote desktop, FTP dan update windows
+5. menambahkan user support di router kantor aldevco
+6. Standby penggantian FAN Core Switch S4810 di IDC lantrai 2 rak 260
 
 Jeffry
 ======
