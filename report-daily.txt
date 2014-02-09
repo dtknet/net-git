@@ -9,7 +9,7 @@ suwarto
 Jeffry
 ======
 1. Cek koneksi priwil, yg ada kemungkinan down karena listrik mati.
-2.
+2. Cek koneksi mesin xenserver-exagnes.
 
 Regards
 --jef
