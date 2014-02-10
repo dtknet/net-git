@@ -10,6 +10,8 @@ Jeffry
 ======
 1. Cek koneksi priwil, yg ada kemungkinan down karena listrik mati.
 2. Cek koneksi mesin xenserver-exagnes.
+3. Add vlan server dbkumis rack2 cyber2.
+4. Force to reroute traffic dari telin ke cbn.
 
 Regards
 --jef
