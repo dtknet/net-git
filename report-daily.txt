@@ -12,6 +12,7 @@ Jeffry
 2. Cek koneksi mesin xenserver-exagnes.
 3. Add vlan server dbkumis rack2 cyber2.
 4. Force to reroute traffic dari telin ke cbn.
+5. Restart core switch 1, saat ini switch down dan menggunakan core 2 sebagai main switch.
 
 Regards
 --jef
