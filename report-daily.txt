@@ -4,25 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. add subdomain pollingtrans7.detiksport.com
-2. Setting vlan 300 rak 6 cyber 2
-3. standby Maintenance Server & Network di Ged.Aldevco oleh support
-4. konfigurasi dan pemasangan switch pengganti switch 1GB rak 260 IDC
-5. perubahan port koneksi dari core switch, untuk antisipasi masalah switch 1 core switch
-6. bypass routing download dari amazonaws.com untuk keperluan detikTV dan merubah routing agar tidak kena limit HTB
-7. menambahkan routing di router aldevco ke adobe lewat 117.102.99.209
-8. pindah server majalah detik ke lantai 2
 
 Jeffry
 ======
-1. Cek koneksi priwil, yg ada kemungkinan down karena listrik mati.
-2. Cek koneksi mesin xenserver-exagnes.
-3. Add vlan server dbkumis rack2 cyber2.
-4. Force to reroute traffic dari telin ke cbn.
-5. Restart core switch 1, saat ini switch down dan menggunakan core 2 sebagai main switch.
-6. Instalasi switch pengganti di IDC 3d.
-7. Debug masalah jaringan internasional detik, dan penambahan default route pada ospf junos.
-8. Add ip rule pada mesin apimailblast ke db blast.
+1. Apply rules firewall pada juniper, untuk memfilter traffic NTP yang tidak diinginkan.
 
 Regards
 --jef
