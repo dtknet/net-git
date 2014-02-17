@@ -8,6 +8,7 @@ suwarto
 Jeffry
 ======
 1. Apply rules firewall pada juniper, untuk memfilter traffic NTP yang tidak diinginkan.
+2. Request block port NTP ke Telin.
 
 Regards
 --jef
