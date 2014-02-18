@@ -1,0 +1,33 @@
+1. Activate management port (located below the rs323 port)
+# enable 
+# config
+(conf)# interface man 3/0 
+(conf-if-ma-3/0)# ip address a.b.c.d/24
+(conf-if-ma-3/0)# show config
+(conf-if-ma-3/0)# exit
+(conf)# exit
+# write mem      (or reload, and reply yes to Save question)
+
+2. connect the notebook and the switch respectively (make a p2p connection).
+3. update the boot system.
+
+# upgrade boot scp:
+Address or name of remote host: p.q.r.s 
+Source filename: U-boot.1.2.0.2.bin     (for example)
+User name to login remote host: myid
+Password to login remote host: mypass
+Erasing Sseries BootImage ......, please wait
+................. 524528 bytes successfully copied
+
+4. update the system
+# upgrade system scp: A: 
+Address or name of remote host: p.q.r.s 
+Source filename: FTOS-SE-8.3.10.2.bin     (for example)
+User name to login remote host: myid
+Password to login remote host: mypass
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Erasing Sseries Primary Image, please wait
+........................... (about 20 lines of these)
+23955875 bytes successfully copied (for example)
+# reload            (or continue on to upgrade the Boot Code)
+
