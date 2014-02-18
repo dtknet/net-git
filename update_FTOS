@@ -1,3 +1,6 @@
+0. Download the firmware and the boot image from this URL
+https://www.force10networks.com/CSPortal20/Software/SSeriesDownloadsDtl.aspx
+
 1. Activate management port (located below the rs323 port)
 # enable 
 # config
