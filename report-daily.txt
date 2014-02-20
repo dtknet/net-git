@@ -11,6 +11,7 @@ Jeffry
 2. Request block port NTP ke Telin.
 3. Update FTOS switch DELL S4810.
 4. Debug masalah nat di firewall kantor.
+5. Rubah vlan untuk management Storage.
 
 
 Regards
