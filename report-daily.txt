@@ -10,7 +10,7 @@ Jeffry
 1. Replace firewall 243 yang lama dengan yang baru.
 2. Pengaktifan failover OSPF pada seluruh firewall detikcom.
 3. Pengaktifan stacking pada switch core detikcom.
-4. Allow port 22 dan 5666 dari server monitoring yang baru ke server detik di luar negri.
+4. Allow port 22, 25 dan 5666 dari server monitoring yang baru ke server detik di luar negri.
 5. Allow server monitoring baru untuk melakukan pengecekan ke server server mirror detik.
 
 Regards
