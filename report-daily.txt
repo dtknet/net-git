@@ -7,12 +7,11 @@ suwarto
 
 Jeffry
 ======
-1. Apply rules firewall pada juniper, untuk memfilter traffic NTP yang tidak diinginkan.
-2. Request block port NTP ke Telin.
-3. Update FTOS switch DELL S4810.
-4. Debug masalah nat di firewall kantor.
-5. Rubah vlan untuk management Storage.
-
+1. Replace firewall 243 yang lama dengan yang baru.
+2. Pengaktifan failover OSPF pada seluruh firewall detikcom.
+3. Pengaktifan stacking pada switch core detikcom.
+4. Allow port 22 dan 5666 dari server monitoring yang baru ke server detik di luar negri.
+5. Allow server monitoring baru untuk melakukan pengecekan ke server server mirror detik.
 
 Regards
 --jef
