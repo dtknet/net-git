@@ -12,6 +12,8 @@ Jeffry
 3. Pengaktifan stacking pada switch core detikcom.
 4. Allow port 22, 25 dan 5666 dari server monitoring yang baru ke server detik di luar negri.
 5. Allow server monitoring baru untuk melakukan pengecekan ke server server mirror detik.
+6. Buat zone untuk cnnindonesia.com.
+7. Rubah ip monitoring.detik.com.
 
 Regards
 --jef
