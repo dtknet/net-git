@@ -15,6 +15,8 @@ Jeffry
 6. Buat zone untuk cnnindonesia.com.
 7. Rubah ip monitoring.detik.com.
 8. Add subdomain us.blackberry.detik.com.
+9. Rubah route 0.0.0.0 dari cbn ke Telin.
+10.Penambahan MX redirect untuk cnnindonesia ke gmail.
 
 Regards
 --jef
