@@ -4,6 +4,18 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
+1. penghapusan dan membenarkan beberapa rule iptables firewall243 untuk keperluan restore ke server firewall243 baru
+2. Penggantian server firewall243
+3. Pengaktifan switch core pengganti di IDC lantai 2 rak 260
+4. Setting quagga di server 243 yang lama untuk backup firewall
+5. perubahan settingan DNS | menghilangkan geoIP DNS
+6. menambahkan sub domain untuk beta detikFamily
+7. blok port udp dari semua firewall | dibuka hanya untuk port dns dan traceroute
+8. blok ip 203.190.247.46 dari luar
+9. setting bonding dan pasang kabel untuk ip 244.5 di firewall243 yang baru
+10. update konfigurasi switch rak 3 cyber 2 dan rak 153 IDC untuk kebutuhan idrac server 
+11. allow ip trans7 ( 202.137.8.185 ) untuk akses server insyosys 203.190.247.44
+
 
 Jeffry
 ======
