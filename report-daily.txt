@@ -4,31 +4,15 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. penghapusan dan membenarkan beberapa rule iptables firewall243 untuk keperluan restore ke server firewall243 baru
-2. Penggantian server firewall243
-3. Pengaktifan switch core pengganti di IDC lantai 2 rak 260
-4. Setting quagga di server 243 yang lama untuk backup firewall
-5. perubahan settingan DNS | menghilangkan geoIP DNS
-6. menambahkan sub domain untuk beta detikFamily
-7. blok port udp dari semua firewall | dibuka hanya untuk port dns dan traceroute
-8. blok ip 203.190.247.46 dari luar
-9. setting bonding dan pasang kabel untuk ip 244.5 di firewall243 yang baru
-10. update konfigurasi switch rak 3 cyber 2 dan rak 153 IDC untuk kebutuhan idrac server 
-11. allow ip trans7 ( 202.137.8.185 ) untuk akses server insyosys 203.190.247.44
 
 
 Jeffry
 ======
-1. Replace firewall 243 yang lama dengan yang baru.
-2. Pengaktifan failover OSPF pada seluruh firewall detikcom.
-3. Pengaktifan stacking pada switch core detikcom.
-4. Allow port 22, 25 dan 5666 dari server monitoring yang baru ke server detik di luar negri.
-5. Allow server monitoring baru untuk melakukan pengecekan ke server server mirror detik.
-6. Buat zone untuk cnnindonesia.com.
-7. Rubah ip monitoring.detik.com.
-8. Add subdomain us.blackberry.detik.com.
-9. Rubah route 0.0.0.0 dari cbn ke Telin.
-10.Penambahan MX redirect untuk cnnindonesia ke gmail.
+1. Modifikasi rules iptables di semua firewall.
+2. Koordinasi dengan pihak CBN mengenai pemblokiran seluruh protocol UDP ke network detik.
+3. Penambahan routing statik pada rc.local server apimailblast.
+4. Menurunkan prefix yang diterima pada link CBN dari /22 ke /21.
+
 
 Regards
 --jef
