@@ -12,6 +12,8 @@ Jeffry
 2. Koordinasi dengan pihak CBN mengenai pemblokiran seluruh protocol UDP ke network detik.
 3. Penambahan routing statik pada rc.local server apimailblast.
 4. Menurunkan prefix yang diterima pada link CBN dari /22 ke /21.
+5. Aktivasi CDN telin untuk subdomain us.images.detik.com.
+6. Delete record dns git pada dns public detik dan menambahkan reconrd tersebut pada dns local.
 
 
 Regards
