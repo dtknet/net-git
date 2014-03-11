@@ -8,16 +8,10 @@ suwarto
 
 Jeffry
 ======
-1. Modifikasi rules iptables di semua firewall.
-2. Koordinasi dengan pihak CBN mengenai pemblokiran seluruh protocol UDP ke network detik.
-3. Penambahan routing statik pada rc.local server apimailblast.
-4. Menurunkan prefix yang diterima pada link CBN dari /22 ke /21.
-5. Aktivasi CDN telin untuk subdomain us.images.detik.com.
-6. Delete record dns git pada dns public detik dan menambahkan reconrd tersebut pada dns local.
-7. Adjust prepend network ke arah cbn dan adjust jumlah prefix yg diterima.
-8. Membantu mempersiapkan server baru untuk balancer 241 dan 242.
+1. Membantu verifiasi gmail untuk domain detikpemilu.com
+2. Pembuatan topologi sederhana untuk keperluan security test.
+3. tambah routing local di mesin detik-search1.
 
 
 Regards
---jef
 
