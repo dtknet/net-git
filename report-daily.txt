@@ -10,7 +10,8 @@ Jeffry
 ======
 1. Membantu verifiasi gmail untuk domain detikpemilu.com
 2. Pembuatan topologi sederhana untuk keperluan security test.
-3. tambah routing local di mesin detik-search1.
+3. Tambah routing local di mesin detik-search1.
+4. Tambah user vpn untuk aplication engineer.
 
 
 Regards
