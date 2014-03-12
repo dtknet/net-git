@@ -12,6 +12,8 @@ Jeffry
 2. Pembuatan topologi sederhana untuk keperluan security test.
 3. Tambah routing local di mesin detik-search1.
 4. Tambah user vpn untuk aplication engineer.
+5. Remove ip 203.190.240.126 dari spamhaus.
+6. Block akses dari 240.126 ke mx2.skymesh.
 
 
 Regards
