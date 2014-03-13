@@ -5,6 +5,14 @@ ini report mingguan dari tim saya (network) :
 suwarto
 =======
 1. update host detikpemilu.com | menambahkan MX dan TXT google
+2. troubleshooting koneksi aldevco | looping koneksi hub ( broadcash ) dan koneksi primer masalah
+3. update configurasi core switch dan switch rak 149 lantai 1 untuk menambahkan vlan 100
+4. add sub domain salesmatrix.detik.com
+5. allow IP 203.190.243.109 dan 203.190.241.90 ke 203.190.240.45 untuk kebutuhan wget ke mirror.detik.com
+6. add subdomain repo.detik.com | 203.190.241.90
+7. allow IP transTV( 202.137.8.160/28 , 202.145.3.146/32 _ untuk akses IP 203.190.241.73/32
+8. update kabling core switch lantai 2 rak 260 IDC untuk keperluan BLAD
+
 
 Jeffry
 ======
