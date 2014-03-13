@@ -14,6 +14,7 @@ Jeffry
 4. Tambah user vpn untuk aplication engineer.
 5. Remove ip 203.190.240.126 dari spamhaus.
 6. Block akses dari 240.126 ke mx2.skymesh.
+7. Penambahan OSPF cost pada firewall 241 dan 242 pada interface yang mengarah ke cyber 2.
 
 
 Regards
