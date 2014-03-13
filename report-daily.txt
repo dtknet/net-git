@@ -4,7 +4,7 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-
+1. update host detikpemilu.com | menambahkan MX dan TXT google
 
 Jeffry
 ======
