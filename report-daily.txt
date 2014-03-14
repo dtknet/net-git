@@ -12,6 +12,8 @@ suwarto
 6. add subdomain repo.detik.com | 203.190.241.90
 7. allow IP transTV( 202.137.8.160/28 , 202.145.3.146/32 _ untuk akses IP 203.190.241.73/32
 8. update kabling core switch lantai 2 rak 260 IDC untuk keperluan BLAD
+9. kabling kabel untuk IP local server bangmega dan update configurasi switch rak 259 IDC lantai 2
+10. kabling dan aktivasi bonding vlan 555 server firewall243 rak 260 IDC lantai 2
 
 
 Jeffry
