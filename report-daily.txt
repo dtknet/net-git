@@ -4,7 +4,9 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-
+1. add VLAN 245 ( NET-245.0/24 ) di core-swicth dan add IPnya di server firewall243 lama dan server kuningan lama
+2. pengecekan netwok masalah server2 mobop
+3.
 
 
 Jeffry
