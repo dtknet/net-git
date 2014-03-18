@@ -1,7 +1,9 @@
 0. Download the firmware and the boot image from this URL
+---------------------------------------------------------
 https://www.force10networks.com/CSPortal20/Software/SSeriesDownloadsDtl.aspx
 
 1. Activate management port (located below the rs323 port)
+----------------------------------------------------------
 # enable 
 # config
 (conf)# interface man 3/0 
@@ -12,8 +14,10 @@ https://www.force10networks.com/CSPortal20/Software/SSeriesDownloadsDtl.aspx
 # write mem      (or reload, and reply yes to Save question)
 
 2. connect the notebook and the switch respectively (make a p2p connection).
-3. update the boot system.
+----------------------------------------------------------------------------
 
+3. update the boot system.
+--------------------------
 # upgrade boot scp:
 Address or name of remote host: p.q.r.s 
 Source filename: U-boot.1.2.0.2.bin     (for example)
@@ -23,6 +27,7 @@ Erasing Sseries BootImage ......, please wait
 ................. 524528 bytes successfully copied
 
 4. update the system
+--------------------
 # upgrade system scp: A: 
 Address or name of remote host: p.q.r.s 
 Source filename: FTOS-SE-8.3.10.2.bin     (for example)
