@@ -13,6 +13,7 @@ Jeffry
 ======
 1. Memabantu debug masalah aplikasi detikcom di iphone dengan koneksi operator Australia.
 2. Menurunkan prefix yang diterima dari CBN ke le 19.
+3. Penambahan beberapa subdomain us.
 
 
 Regards
