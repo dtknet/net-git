@@ -9,7 +9,8 @@ suwarto
 3. merapikan dan pengecekan rull firewall 241 dan 242
 4. add subdomain qa.detik.com (203.190.243.216)
 5. add subdmian jejakpetualang.detik.travel (203.190.241.9)
-6. 
+6. problem solving smtp.gmail.com dari server hadoop-node1(203.190.241.248)
+7. 
 
 
 Jeffry
