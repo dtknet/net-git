@@ -21,6 +21,7 @@ Jeffry
 3. Penambahan beberapa subdomain us.
 4. Configure ospf pada firewall 245.
 5. Penambahan blok ip 245 pada IPAM.
+6. Edit firewall 245.
 
 
 Regards
