@@ -11,7 +11,7 @@ suwarto
 5. add subdmian jejakpetualang.detik.travel (203.190.241.9)
 6. problem solving smtp.gmail.com dari server hadoop-node1(203.190.241.248)
 7. update rull squid | open blok torrentlist keyword pirate
-8. 
+8. add static routing on server mobile SMS (202.152.162.221 gw 10.138.55.1)
 
 
 Jeffry
