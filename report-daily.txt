@@ -4,25 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. add VLAN 245 ( NET-245.0/24 ) di core-swicth dan add IPnya di server firewall243 lama dan server kuningan lama
-2. pengecekan netwok masalah server2 mobop
-3. merapikan dan pengecekan rull firewall 241 dan 242
-4. add subdomain qa.detik.com (203.190.243.216)
-5. add subdmian jejakpetualang.detik.travel (203.190.241.9)
-6. problem solving smtp.gmail.com dari server hadoop-node1(203.190.241.248)
-7. update rull squid | open blok torrentlist keyword pirate
-8. add static routing on server mobile SMS (202.152.162.221 gw 10.138.55.1)
 
 
 Jeffry
 ======
-1. Memabantu debug masalah aplikasi detikcom di iphone dengan koneksi operator Australia.
-2. Menurunkan prefix yang diterima dari CBN ke le 19.
-3. Penambahan beberapa subdomain us.
-4. Configure ospf pada firewall 245.
-5. Penambahan blok ip 245 pada IPAM.
-6. Edit firewall 245.
-7. Update rules untuk memblok torrent pada squid.
 
 
 Regards
