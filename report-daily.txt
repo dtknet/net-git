@@ -8,6 +8,8 @@ suwarto
 
 Jeffry
 ======
+1. Add subdomain idblackberry.
+2. Adjust prefix yang diterima pada router cisco cyber2.
 
 
 Regards
