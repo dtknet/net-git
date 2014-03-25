@@ -4,7 +4,9 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-
+1. unblock IP 203.190.243.57 dari firewall untuk keperluan install
+2. block IP 203.190.241.117 dari firewall untuk keperluan kill proses karna loadnya tinggi | sekarang udah di unblock
+ 
 
 Jeffry
 ======
