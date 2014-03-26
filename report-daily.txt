@@ -15,6 +15,7 @@ Jeffry
 1. Add subdomain idblackberry.
 2. Adjust prefix yang diterima pada router cisco cyber2.
 3. Buka port 8080 pada firewall Aldevco dan firewall Detiksq.
+4. add subdomain uscdn.detik.net.id.
 
 
 Regards
