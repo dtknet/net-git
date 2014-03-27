@@ -19,6 +19,7 @@ Jeffry
 2. Adjust prefix yang diterima pada router cisco cyber2.
 3. Buka port 8080 pada firewall Aldevco dan firewall Detiksq.
 4. add subdomain uscdn.detik.net.id.
+5. Update rule ospf pada semua mesin firewall.
 
 
 Regards
