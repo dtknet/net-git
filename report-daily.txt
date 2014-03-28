@@ -10,7 +10,8 @@ suwarto
 4. alokasi 4 IP public 243 dan 4 IP local 2 untuk keperluan sysadmin
 5. update subdomain detik.com | beberapa subdomain dihapus berdasarkan reques appneng karna tidak dipake
 6. edit konfigurasi switch rak 153 IDC lantai 1 untuk keperluan rubah IP server xen-static-images4 dan static-images2
-7. 
+7. menambahkan dns 203.190.247.106 di server 203.190.243.190 agak bisa akses subdomain git.detik.com
+8. Menambahkan host git.detik.com di server DNS local 
  
 
 Jeffry
