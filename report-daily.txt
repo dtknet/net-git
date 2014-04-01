@@ -4,7 +4,11 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
- 
+1. blok domain youtube.com di wifi staff-detik kantor aldevco
+2. problem solving koneksi public server buaya ( Master DNS local )
+3. Mindah server balancer241 lama dari rak 263 ke rak 260 IDC dan di install ulang untuk keperluan new-firewall247
+4. 
+
 
 Jeffry
 ======
