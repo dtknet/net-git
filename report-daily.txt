@@ -4,24 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. unblock IP 203.190.243.57 dari firewall untuk keperluan install
-2. block IP 203.190.241.117 dari firewall untuk keperluan kill proses karna loadnya tinggi | sekarang udah di unblock
-3. perubahan IP subdomain blackberry.detik.com | dari 203.190.241.33 ke 204.232.224.107
-4. alokasi 4 IP public 243 dan 4 IP local 2 untuk keperluan sysadmin
-5. update subdomain detik.com | beberapa subdomain dihapus berdasarkan reques appneng karna tidak dipake
-6. edit konfigurasi switch rak 153 IDC lantai 1 untuk keperluan rubah IP server xen-static-images4 dan static-images2
-7. menambahkan dns 203.190.247.106 di server 203.190.243.190 agak bisa akses subdomain git.detik.com
-8. Menambahkan host git.detik.com di server DNS local 
  
 
 Jeffry
 ======
-1. Add subdomain idblackberry.
-2. Adjust prefix yang diterima pada router cisco cyber2.
-3. Buka port 8080 pada firewall Aldevco dan firewall Detiksq.
-4. add subdomain uscdn.detik.net.id.
-5. Update rule ospf pada semua mesin firewall.
-6. Assign ip untuk test hadoop.
 
 
 Regards
