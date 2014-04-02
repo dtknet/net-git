@@ -12,7 +12,8 @@ suwarto
 
 Jeffry
 ======
-
+1. Menambahkan jumlah prefix yang diterima dari cbn menjadi /20.
+2. Install quagga pada server firewall 247 yang baru.
 
 Regards
 
