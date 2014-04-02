@@ -7,7 +7,10 @@ suwarto
 1. blok domain youtube.com di wifi staff-detik kantor aldevco
 2. problem solving koneksi public server buaya ( Master DNS local )
 3. Mindah server balancer241 lama dari rak 263 ke rak 260 IDC dan di install ulang untuk keperluan new-firewall247
-4. 
+4. membuat user baru di VPN untuk syahid(203.190.243.220)
+5. Memindah Firewall247 lama ke New-Firewal247
+6. Mengganti IP server Replica-MongoDB dari public ke Ip local ( 203.190.241.234 ke 192.168.2.12 )
+7. 
 
 
 Jeffry
