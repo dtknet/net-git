@@ -15,7 +15,8 @@ suwarto
 9. penambahan kabel untuk balancer 241 dan balancer 242
 10. Pengecekan Firewal247 lama | Chipset rusak, saat ini server dalam kondisi mati
 11. Open port 441 di router tendean dan aldevco
-12.  
+12. setup DNS master di server New-Firewal247
+13. 
 
 
 Jeffry
