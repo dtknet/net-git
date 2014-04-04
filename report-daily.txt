@@ -28,7 +28,7 @@ Jeffry
 5. Add domain subdomain apimedia.detik.com.
 6. Membantu pemasangan switch pada rack 260.
 7. Assign vlan untuk blancer 241 dan 242.
-
+8. Expand netmask di cisco dan firewall 241-242 cyber2.
 
 
 Regards
