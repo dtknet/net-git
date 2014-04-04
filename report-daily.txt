@@ -30,6 +30,7 @@ Jeffry
 7. Assign vlan untuk blancer 241 dan 242.
 8. Expand netmask di cisco dan firewall 241-242 cyber2.
 9. Remove rules ospf pada firewall 241-243 idc duren3.
+10. Rubah port ssh firewall 247 dan block port ssh ke firewall 247 dari luar jaringan detik.
 
 
 Regards
