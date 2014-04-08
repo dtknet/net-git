@@ -8,6 +8,9 @@ suwarto
 
 Jeffry
 ======
+1. Update cacti untuk semua firewall.
+2. Tweak sysctl semua mesin firewall.
+3. Penambahan script backup firewall di firewall 243.
 
 
 Regards
