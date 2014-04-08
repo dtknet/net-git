@@ -4,33 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. blok domain youtube.com di wifi staff-detik kantor aldevco
-2. problem solving koneksi public server buaya ( Master DNS local )
-3. Mindah server balancer241 lama dari rak 263 ke rak 260 IDC dan di install ulang untuk keperluan new-firewall247
-4. membuat user baru di VPN untuk syahid(203.190.243.220)
-5. Menambahkan Vlan 334 di switch Linksys rak 260 IDC dan menambahkan Ip 244 di server NEW-Firewal247 untuk keperluan ospf
-6. Memindah Firewall247 lama ke New-Firewal247
-7. Mengganti IP server Replica-MongoDB dari public ke Ip local ( 203.190.241.234 ke 192.168.2.12 )
-8. Configurasi dan pemasangan switch baru di rak 260 IDC lantai 2
-9. penambahan kabel untuk balancer 241 dan balancer 242
-10. Pengecekan Firewal247 lama | Chipset rusak, saat ini server dalam kondisi mati
-11. Open port 441 di router tendean dan aldevco
-12. setup DNS master di server New-Firewal247
-13. 
 
 
 Jeffry
 ======
-1. Menambahkan jumlah prefix yang diterima dari cbn menjadi /20.
-2. Install quagga pada server firewall 247 yang baru.
-3. Membantu pemindahan firewall 247 dari mesin lama ke mesin baru.
-4. Allow port 280 di firewall kantor dan tendean.
-5. Add domain subdomain apimedia.detik.com.
-6. Membantu pemasangan switch pada rack 260.
-7. Assign vlan untuk blancer 241 dan 242.
-8. Expand netmask di cisco dan firewall 241-242 cyber2.
-9. Remove rules ospf pada firewall 241-243 idc duren3.
-10. Rubah port ssh firewall 247 dan block port ssh ke firewall 247 dari luar jaringan detik.
 
 
 Regards
