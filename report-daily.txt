@@ -4,6 +4,11 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
+1. Update configurasi switch rak 260 linksys A add vlan 555 untuk kebutuhan firewall 247
+2. allow di firewall247 ip 182.253.242.16 untuk akses sftp ke 203.190.247.166 dan akses vnc ke ip 203.190.247.44 untuk kebutuhan karir.detik.com
+3. Standby maintenance jaringan Linknet malam kamis 10/04/2014
+4. Mindah server kuningan dari IDC ke cyber2
+5. 
 
 
 Jeffry
