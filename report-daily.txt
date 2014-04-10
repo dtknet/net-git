@@ -8,10 +8,11 @@ suwarto
 
 Jeffry
 ======
-1. Update cacti untuk semua firewall.
+1. Update cacti untuk semua firewall dan router kantor.
 2. Tweak sysctl semua mesin firewall.
 3. Penambahan script backup firewall di firewall 243.
 4. Update binary quagga pada mesin firewall 241 dan 242 cyber 2.
+5. Penambahan ip rule pada gw kantor.
 
 
 Regards
