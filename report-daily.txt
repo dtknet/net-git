@@ -4,7 +4,9 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-
+1. Mindah server kuningan dari Cyber 2 ke IDC untuk kebutuhan balancer CNN ( Ip NET-245.0/24 )
+2. Instalasi server balancer245
+3. 
 
 Jeffry
 ======
