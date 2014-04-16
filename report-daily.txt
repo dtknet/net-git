@@ -12,7 +12,7 @@ Jeffry
 ======
 1. Penambahan subdomain .dtk dan edit /etc/resolv.conf di beberapa server.
 2. Edit port ssh dari 22 ke 3775 dari mesin dns.dtk slave, dan reset pass root nya.
-
+3. Setup routing untuk keperluan skype dept inet.
 
 Regards
 
