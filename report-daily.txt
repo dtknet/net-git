@@ -10,6 +10,8 @@ Jeffry
 1. Rubah pointing domain untuk online.detik.com.
 2. Update scripts untuk backup reconrd dns pada semua mesin dns.
 3. Penambahan dan perubahan script backup firewall pada firewall 247 yg baru.
+4. Membantu debug masalah pada vpn router xl-detik (241.106).
+
 
 Regards
 
