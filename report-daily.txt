@@ -8,6 +8,7 @@ suwarto
 Jeffry
 ======
 1. Rubah pointing domain untuk online.detik.com.
+2. Update scripts untuk bakup reconrd dns pada semua mesin dns.
 
 Regards
 
