@@ -8,7 +8,8 @@ suwarto
 Jeffry
 ======
 1. Rubah pointing domain untuk online.detik.com.
-2. Update scripts untuk bakup reconrd dns pada semua mesin dns.
+2. Update scripts untuk backup reconrd dns pada semua mesin dns.
+3. Penambahan dan perubahan script backup firewall pada firewall 247 yg baru.
 
 Regards
 
