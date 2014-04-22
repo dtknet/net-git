@@ -11,6 +11,9 @@ Jeffry
 2. Update scripts untuk backup reconrd dns pada semua mesin dns.
 3. Penambahan dan perubahan script backup firewall pada firewall 247 yg baru.
 4. Membantu debug masalah pada vpn router xl-detik (241.106).
+5. Perubahan vlan untuk mesin dbmicrosite-cyber2 dan mesin dumbledore.
+6. Switch ip antara mesin dbmicrosite-cyber2 dan dumbledore.
+7. Add ip rule agar mesin post bisa mengakses ip local mesin dbmicrosite-cyber2.
 
 
 Regards
