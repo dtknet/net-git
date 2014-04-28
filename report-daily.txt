@@ -4,22 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. Restart VPN XL di Cyber 2 dikarenakan stuck
-2. Blok unallow IP 182.253.242.16( IP nuris ) dari Firewall247 karna pengerjaan karir.detik.com selesai 
-3. add ip rule untuk IP 192.168.18.252 untuk keperluan skype Inet
-4. aktivasi gre di router wifi kantor aldevco
 
 
 Jeffry
 ======
-1. Rubah pointing domain untuk online.detik.com.
-2. Update scripts untuk backup reconrd dns pada semua mesin dns.
-3. Penambahan dan perubahan script backup firewall pada firewall 247 yg baru.
-4. Membantu debug masalah pada vpn router xl-detik (241.106).
-5. Perubahan vlan untuk mesin dbmicrosite-cyber2 dan mesin dumbledore.
-6. Switch ip antara mesin dbmicrosite-cyber2 dan dumbledore.
-7. Add ip rule agar mesin post bisa mengakses ip local 1.
-8. Debug vpn ttv via wifi aldevco.
 
 
 Regards
