@@ -8,7 +8,8 @@ suwarto
 
 Jeffry
 ======
-
+1. Rubah vlan untuk mesin streamserver12.
+2.
 
 Regards
 
