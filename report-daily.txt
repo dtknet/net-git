@@ -9,7 +9,7 @@ suwarto
 Jeffry
 ======
 1. Rubah vlan untuk mesin streamserver12.
-2.
+2. Penambahan subdomain fem.detik.com.
 
 Regards
 
