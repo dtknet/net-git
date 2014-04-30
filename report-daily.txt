@@ -15,7 +15,7 @@ Jeffry
 2. Penambahan subdomain fem.detik.com.
 3. Upgrade squid mesin proxy-dev ke versi 3.4.4.
 4. Adjust bgp filter cyber 2.
-5. Buka port vnc untuk mesin insosys.
+5. Buka port vnc dan mssql untuk mesin insosys.
 
 
 
