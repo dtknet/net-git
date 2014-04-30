@@ -14,6 +14,7 @@ Jeffry
 1. Rubah vlan untuk mesin streamserver12.
 2. Penambahan subdomain fem.detik.com.
 3. Upgrade squid mesin proxy-dev ke versi 3.4.4.
+4. Adjust bgp filter cyber 2.
 
 
 Regards
