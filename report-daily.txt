@@ -16,6 +16,7 @@ Jeffry
 3. Upgrade squid mesin proxy-dev ke versi 3.4.4.
 4. Adjust bgp filter cyber 2.
 5. Buka port vnc dan mssql untuk mesin insosys.
+6. Menaikkan MTU pada port switch dan pada interface server server log analytics.
 
 
 
