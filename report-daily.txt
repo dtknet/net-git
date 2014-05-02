@@ -7,6 +7,7 @@ suwarto
 1. allow port 8080 di server 203.190.243.8
 2. perubahan configurasi switch rak 149 dan rak 147 IDC untuk perubahan vlan server streamserver5, myseacrhnewfoto, streamserver14, node1
 3. Maintanance power untuk kebutuhan switch, adapter koneksi dan router kantor aldevco
+4. add subdmoain www.fem.detik.com | 203.190.241.31
 
 
 Jeffry
