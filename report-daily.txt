@@ -4,21 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. allow port 8080 di server 203.190.243.8
-2. perubahan configurasi switch rak 149 dan rak 147 IDC untuk perubahan vlan server streamserver5, myseacrhnewfoto, streamserver14, node1
-3. Maintanance power untuk kebutuhan switch, adapter koneksi dan router kantor aldevco
-4. add subdmoain www.fem.detik.com | 203.190.241.31
 
 
 Jeffry
 ======
-1. Rubah vlan untuk mesin streamserver12.
-2. Penambahan subdomain fem.detik.com.
-3. Upgrade squid mesin proxy-dev ke versi 3.4.4.
-4. Adjust bgp filter cyber 2.
-5. Buka port vnc dan mssql untuk mesin insosys.
-6. Menaikkan MTU pada port switch dan pada interface server server log analytics.
-7. Buka port mssql dari network trans ke server insosys.
 
 
 Regards
