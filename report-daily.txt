@@ -4,7 +4,8 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-
+1. Edit Configurasi switch rak 147 dan rak 149 IDC 3D lantai 1 untuk keperluan koneksi Ip net-243.0/24
+2. 
 
 Jeffry
 ======
