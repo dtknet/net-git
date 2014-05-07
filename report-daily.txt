@@ -12,6 +12,8 @@ Jeffry
 1. Install denyhost di mesin priwil untuk memblock pihak pihak yang mencoba brute force ssh.
 2. Set mtu mesin fitnesboy, nas-urchin dan debian-urchin kembali ke 1500.
 3. Debug masalah pada koneksi kantor.
+4. Buka port 1433 pada firewall 247 untuk ip ttv dan trans7.
+
 
 Regards
 
