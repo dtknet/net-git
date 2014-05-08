@@ -15,6 +15,7 @@ Jeffry
 3. Debug masalah pada koneksi kantor.
 4. Buka port 139,445,1433 pada firewall 247 dan 243 untuk ip ttv dan trans7.
 5. Install keepalived dan ladvd pada balancer 245.
+6. Allow ip ttv pada firewall 247.
 
 
 Regards
