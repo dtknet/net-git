@@ -4,20 +4,10 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
-1. Edit Configurasi switch rak 147 dan rak 149 IDC 3D lantai 1 untuk keperluan koneksi Ip net-243.0/24
-2. Menyiapkan masing2 4 IP Net-243.0/24 dan Local-2.0/24 untuk kebutuhan sysadmin
-3. add subdomain video.cnnindonesia.com | 203.190.241.227
  
 
 Jeffry
 ======
-1. Install denyhost di mesin priwil untuk memblock pihak pihak yang mencoba brute force ssh.
-2. Set mtu mesin fitnesboy, nas-urchin dan debian-urchin kembali ke 1500.
-3. Debug masalah pada koneksi kantor.
-4. Buka port 139,445,1433 pada firewall 247 dan 243 untuk ip ttv dan trans7.
-5. Install keepalived dan ladvd pada balancer 245.
-6. Allow ip ttv pada firewall 247.
-7. Assign ip untuk kebutuhan detik analitik.
 
 
 Regards
