@@ -8,6 +8,7 @@ suwarto
 
 Jeffry
 ======
+1. Rubah record dns untuk git pada dns dtk.
 
 
 Regards
