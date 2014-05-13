@@ -4,6 +4,14 @@ ini report mingguan dari tim saya (network) :
 
 suwarto
 =======
+1. memindah server dbAdsNetwork3 dari cyber 2 ke IDC
+2. edit configurasi switch rak 150 IDC untuk keperluan koneksi server dbAdsNetwork3
+3. add domain di router kantor aldevco | gitcreative.detik.com, gitdev.detik.com dan gitsysnet.detik.com
+4. add subdomain di DNS logbroadcast.mobile3845.com (203.190.243.148) dan origin.cnnindonesia.com (203.190.243.50)
+5. add subdomain di DNS local postgresql1.dbdetik.dtk dan postgresql2.dbdetik.dtk
+6. problem solving koneksi kantor aldevco
+7. 
+
  
 
 Jeffry
