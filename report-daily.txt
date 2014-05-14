@@ -18,8 +18,8 @@ Jeffry
 ======
 1. Rubah record dns untuk git pada dns dtk.
 2. Debug masalah koneksi kantor.
-3. Riset loadbalance script untuk router kantor.
-4.
+3. Riset loadbalance untuk router kantor.
+4. Impelemtasi metric pada ip route router kantor untuk keperluan failover.
 
 
 Regards
