@@ -20,6 +20,8 @@ Jeffry
 2. Debug masalah koneksi kantor.
 3. Impelemtasi metric pada ip route router kantor untuk keperluan failover.
 4. Edit sysctl mesin balancer 245.
+5. Rubah ip mesin mesin CNN ke 245.
+6. Allow vlan 245 di cyber2. 
 
 
 Regards
