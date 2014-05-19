@@ -11,6 +11,7 @@ Jeffry
 ======
 1. Debug masalah nat pada mesin internal gw ke replika mongodb.
 2. Edit max contrack pada mesin internal gw.
+3. Tweak mesin dns1 dan dns2 detikcom.
 
 
 
