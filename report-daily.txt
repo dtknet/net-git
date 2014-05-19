@@ -9,6 +9,9 @@ suwarto
 
 Jeffry
 ======
+1. Debug masalah nat pada mesin internal gw ke replika mongodb.
+2. Edit max contrack pada mesin internal gw.
+
 
 
 Regards
